@@ -1,0 +1,50 @@
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: Del (/world/Del)
+  source file: Settings.dm,32
+  usr: null
+  src: 
+  call stack:
+: Del()
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: Del (/world/Del)
+  source file: Settings.dm,32
+  usr: null
+  src: 
+  call stack:
+: Del()
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/98.228.79.200:10001
+
+Wed Jun 03 01:07:04 2015
+World opened on network port 1000.
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/98.228.79.200:1000
+
+World opened on network port 1000.
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/98.228.79.200:1000
+
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/98.228.79.200:1000
+
+Wed Jun 03 01:59:13 2015
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/98.228.79.200:1000
+
+Sat Jun 13 12:44:54 2015
+World no longer opened to new users.
+World opened on network port 1000.
+World no longer opened to new users.
+World opened on network port 1000.
+World opened on network port 1001.
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/98.228.79.200:1001
+
