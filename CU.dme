@@ -1,0 +1,30 @@
+// DM Environment file for EC.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Sprite Sheets"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Admin System.dm"
+#include "Chat System.dm"
+#include "HUD.dm"
+#include "Login.dm"
+#include "Settings.dm"
+#include "Turf - Earth Grass.dm"
+#include "Turf - Earth Sand.dm"
+#include "Turf - Earth Water.dm"
+#include "Turf - Floors.dm"
+#include "Turf - Kamehouse.dm"
+#include "CU_Interface.dmf"
+#include "CU_Map.dmm"
+// END_INCLUDE
+
